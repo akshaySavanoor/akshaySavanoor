@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce website using blockchain technology](https://github.com/akshaySavanoor/Bettampady-technologies-ecom)
 
-- 🌱 I’m currently learning **React.js, Node.js and VAPT**
+- 🌱 I’m currently learning **React.js, Node.js, Android development and VAPT**
 
 - 💬 Ask me about **Computer Networking**
 
