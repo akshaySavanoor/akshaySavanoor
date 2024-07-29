@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">An enthusiastic web developer with a passion for vulnerability assessment and penetration testing.</h3>
-
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/D15IEIRszu2sM/giphy.gif?cid=ecf05e47od6kxfx911o6f0iu6gcj45biojujgi2z6mqka5x5&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<h3 align="center">An enthusiastic Software Developer with a passion for vulnerability assessment and penetration testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysavanoorcc" /> </p>
 
-- 🔭 I’m currently working on [E-commerce website using blockchain technology](https://github.com/akshaySavanoor/Bettampady-technologies-ecom)
+- 🔭 I’m currently working on Android Projects.
 
-- 🌱 I’m currently learning **React.js, Node.js, Android development and VAPT**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Computer Networking**
+- 💬 Ask me about **Mobile Development**, **Android Automotive** and **Network Security**
 
 - 📫 How to reach me **akshaysavanoor@gmail.com**
 
