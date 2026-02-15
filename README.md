@@ -1,27 +1,88 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">An enthusiastic Software Developer with a passion for vulnerability assessment and penetration testing.</h3>
+<h1 align="center">Hey, I'm Akshay 👋</h1>
+<h3 align="center">
+Software Engineer | Flutter Developer | Android Engineer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysavanoorcc" /> </p>
-
-- 🔭 I’m currently working on Android Projects.
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Mobile Development**, **Android Automotive** and **Network Security**
-
-- 📫 How to reach me **akshaysavanoor@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/akshaysavanoorcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshaysavanoorcc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19457267/akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay" height="30" width="40" /></a>
+<p align="center">
+Flutter & Android engineer building production-grade mobile and cross-platform applications for real-world business problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=6f42c1&style=flat" alt="akshaysavanoorcc" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaysavanoorcc&show_icons=true&locale=en&layout=compact" alt="akshaysavanoorcc" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaysavanoorcc&show_icons=true&locale=en" alt="akshaysavanoorcc" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysavanoorcc&" alt="akshaysavanoorcc" /></p>
+- 💼 Software Engineer with ~3 years of experience in **Flutter, Android (Kotlin), and mobile application development**
+- 🔧 Built production systems across **healthcare, retail POS, workforce management, and energy domains**
+- 📱 Strong in **cross-platform development, responsive UI, and system-driven architectures**
+- 🧠 Interested in **system design, performance optimization, and clean architecture**
+- 🌱 Open-source contributor and continuous learner
+
+---
+
+### 🌟 Open Source & Research
+
+**flexi_ui** — Flutter Package for Adaptive UI  
+Reusable Flutter package for building responsive and adaptive layouts across mobile, tablet, and web.  
+https://pub.dev/packages/flexi_ui
+
+**Android Automotive Research**  
+In-depth exploration of Android Automotive OS with documentation and a demo in-car application.  
+https://github.com/akshaySavanoor/AndroidAutomotive
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**  
+Flutter, Dart, Kotlin, Android SDK, Java (basic)
+
+**State Management & Architecture**  
+Bloc / Cubit, Provider, Riverpod, Atomic Design, Server-Driven UI (SDUI), MVVM (basic)
+
+**Backend & Data**  
+Firebase (basic), SQLite
+
+**Tools & Workflow**  
+Git, GitHub, GitLab, Bitbucket, Jira, Android Studio, VS Code
+
+---
+
+### 📌 Professional Projects (Private, Production Systems)
+
+- **Semnox POS** – Cross-platform retail POS system with multi-printer (Sunmi, Zebra) & NFC integration  
+- **Timesheet Management System** – Workforce tracking platform with RBAC, dashboards, and reporting  
+- **Montefiore RestoreMe** – Healthcare Android application with biometric authentication  
+- **Enphase EnlOne** – Energy management application using Server-Driven UI
+
+---
+
+### 🌱 Currently Exploring
+
+- Flutter performance & scalability  
+- System design for large mobile applications  
+- Android Automotive OS
+
+---
+
+### 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+<a href="https://stackoverflow.com/users/19457267/akshay" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="30"/>
+</a>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akshaysavanoorcc&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysavanoorcc&theme=tokyonight" />
+</p>
