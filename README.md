@@ -1,88 +1,96 @@
-<h1 align="center">Hey, I'm Akshay 👋</h1>
-<h3 align="center">
-Software Engineer | Flutter Developer | Android Engineer
-</h3>
-
 <p align="center">
-Flutter & Android engineer building production-grade mobile and cross-platform applications for real-world business problems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:1a1440&height=180&section=header&text=Hey,%20I'm%20Akshay%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=6f42c1&style=flat" alt="akshaysavanoorcc" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Flutter+%26+Android+Engineer;Exploring+Android+Automotive+OS+(AAOS);Root-causing+ANRs+one+profile+at+a+time&font=Fira+Code&center=true&width=600&height=45&color=6F42C1&vCenter=true&size=20" alt="typing-svg" />
 </p>
 
----
+<p align="center">
+  Flutter &amp; Android engineer building production-grade, enterprise mobile applications —
+  with a growing focus on <b>Android platform internals</b> and <b>Android Automotive OS (AAOS)</b>.
+</p>
 
-### 🚀 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-%E2%80%8E-967591236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@akshaysavanoor" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:akshaysavanoor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 💼 Software Engineer with ~3 years of experience in **Flutter, Android (Kotlin), and mobile application development**
-- 🔧 Built production systems across **healthcare, retail POS, workforce management, and energy domains**
-- 📱 Strong in **cross-platform development, responsive UI, and system-driven architectures**
-- 🧠 Interested in **system design, performance optimization, and clean architecture**
+<br/>
+
+## 🚀 About Me
+
+- 💼 Software Development Engineer with **3+ years** building enterprise-grade **Flutter, Dart, Kotlin, and native Android** applications
+- 🏭 Shipped production features across **healthcare, retail POS, industrial monitoring, and renewable energy**
+- 🏎️ Self-directed exploration of **Android Automotive OS (AAOS)** — Google's design guidelines, Vehicle HAL (VHAL), and app templates
+- 🧬 Working knowledge of **Android platform internals** — Binder/IPC, JNI, Zygote, AOSP architecture — and **C++**
+- ⚡ Root-cause performance debugger — from profiling ANRs to fixing algorithmic bottlenecks and CPU hot paths
+- 🧱 Comfortable owning architecture end-to-end — Clean Architecture, BLoC/Cubit, Server-Driven UI (SDUI)
+- 🤝 Mentor newer engineers on codebase, architecture, and best practices
 - 🌱 Open-source contributor and continuous learner
 
----
+<br/>
 
-### 🌟 Open Source & Research
+## 🌟 Open Source & Independent Work
 
-**flexi_ui** — Flutter Package for Adaptive UI  
-Reusable Flutter package for building responsive and adaptive layouts across mobile, tablet, and web.  
-https://pub.dev/packages/flexi_ui
+**flexi_ui** — Flutter Package for Adaptive UI
+Reusable Flutter package for building responsive and adaptive layouts across mobile, tablet, and web.
+🔗 [pub.dev/packages/flexi_ui](https://pub.dev/packages/flexi_ui)
 
-**Android Automotive Research**  
-In-depth exploration of Android Automotive OS with documentation and a demo in-car application.  
-https://github.com/akshaySavanoor/AndroidAutomotive
+**Android Automotive OS Exploration**
+Independent, hands-on exploration of AAOS — design guidelines, Vehicle HAL (VHAL), and media/navigation app templates — as self-driven preparation for automotive platform engineering.
+🔗 [github.com/akshaySavanoor/AndroidAutomotive](https://github.com/akshaySavanoor/AndroidAutomotive)
 
----
+<br/>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Frameworks**  
-Flutter, Dart, Kotlin, Android SDK, Java (basic)
+**Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 
-**State Management & Architecture**  
-Bloc / Cubit, Provider, Riverpod, Atomic Design, Server-Driven UI (SDUI), MVVM (basic)
+**Languages**
+<img src="https://skillicons.dev/icons?i=cpp,python" />
 
-**Backend & Data**  
-Firebase (basic), SQLite
+**Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode" />
 
-**Tools & Workflow**  
-Git, GitHub, GitLab, Bitbucket, Jira, Android Studio, VS Code
+**Architecture** Clean Architecture · BLoC/Cubit · Atomic Design · Server-Driven UI (SDUI) · Responsive & Tablet Layouts
 
----
+**Android Internals** Binder/IPC · JNI · Zygote · AOSP Architecture
 
-### 📌 Professional Projects (Private, Production Systems)
+**Performance** App Profiling · ANR/CPU Bottleneck Diagnosis · Algorithmic Complexity Optimization
 
-- **Semnox POS** – Cross-platform retail POS system with multi-printer (Sunmi, Zebra) & NFC integration  
-- **Timesheet Management System** – Workforce tracking platform with RBAC, dashboards, and reporting  
-- **Montefiore RestoreMe** – Healthcare Android application with biometric authentication  
-- **Enphase EnlOne** – Energy management application using Server-Driven UI
+**Integrations** NFC · Barcode Scanning · Biometric Authentication · Zebra/Sunmi Printer Integration
 
----
+**AI-Assisted Development** GitHub Copilot · ChatGPT · Claude · Gemini · AI Agent Workflows
 
-### 🌱 Currently Exploring
+<br/>
 
-- Flutter performance & scalability  
-- System design for large mobile applications  
-- Android Automotive OS
+## 📌 Professional Work (Enterprise Production Systems)
 
----
+| Project | Domain | Highlights |
+|---|---|---|
+| **ContiPlus** | Industrial Monitoring | Clean Architecture migration, ANR root-cause & fix, reusable components |
+| **Enphase EnlOne** | Renewable Energy | Server-Driven UI (SDUI) for backend-controlled, releaseless UI updates |
+| **Semnox POS** | Retail POS | Desktop → tablet/mobile POS conversion, NFC/barcode/printer integrations |
+| **Mangalore Tourism** | Travel & Web | Responsive Flutter web platform across mobile, tablet, and desktop |
+| **Montefiore RestoreMe** | Healthcare | Biometric-secured Android app for cancer patient care |
 
-### 📫 Connect With Me
+<br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>
-</a>
-<a href="https://stackoverflow.com/users/19457267/akshay" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="30"/>
-</a>
+## 🌱 Currently Exploring
 
----
+- 🏎️ Android Automotive OS (AAOS) — VHAL, car UI constraints, media/navigation templates
+- 🧬 Android platform internals — Binder, JNI, Zygote, AOSP
+- ⚙️ System design for large-scale mobile applications
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshaysavanoorcc&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysavanoorcc&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1440,100:6F42C1&height=100&section=footer" width="100%" />
 </p>
