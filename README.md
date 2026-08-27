@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Flutter+%26+Android+Engineer;Exploring+Android+Automotive+OS+(AAOS);Root-causing+ANRs+one+profile+at+a+time&font=Fira+Code&center=true&width=600&height=45&color=6F42C1&vCenter=true&size=20" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Flutter+%26+Android+Engineer;Exploring+Android+Automotive+OS+(AAOS);&font=Fira+Code&center=true&width=600&height=45&color=6F42C1&vCenter=true&size=20" alt="typing-svg" />
 </p>
 
 <p align="center">
